@@ -1,0 +1,14 @@
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\softuni\Fundamentals\FundamentalModuleSolutions\CenturiesToMinutes\bin\Debug\net8.0\CenturiesToMinutes.exe
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\softuni\Fundamentals\FundamentalModuleSolutions\CenturiesToMinutes\bin\Debug\net8.0\CenturiesToMinutes.deps.json
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\softuni\Fundamentals\FundamentalModuleSolutions\CenturiesToMinutes\bin\Debug\net8.0\CenturiesToMinutes.runtimeconfig.json
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\softuni\Fundamentals\FundamentalModuleSolutions\CenturiesToMinutes\bin\Debug\net8.0\CenturiesToMinutes.dll
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\softuni\Fundamentals\FundamentalModuleSolutions\CenturiesToMinutes\bin\Debug\net8.0\CenturiesToMinutes.pdb
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\softuni\Fundamentals\FundamentalModuleSolutions\CenturiesToMinutes\obj\Debug\net8.0\CenturiesToMinutes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\softuni\Fundamentals\FundamentalModuleSolutions\CenturiesToMinutes\obj\Debug\net8.0\CenturiesToMinutes.AssemblyInfoInputs.cache
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\softuni\Fundamentals\FundamentalModuleSolutions\CenturiesToMinutes\obj\Debug\net8.0\CenturiesToMinutes.AssemblyInfo.cs
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\softuni\Fundamentals\FundamentalModuleSolutions\CenturiesToMinutes\obj\Debug\net8.0\CenturiesToMinutes.csproj.CoreCompileInputs.cache
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\softuni\Fundamentals\FundamentalModuleSolutions\CenturiesToMinutes\obj\Debug\net8.0\CenturiesToMinutes.dll
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\softuni\Fundamentals\FundamentalModuleSolutions\CenturiesToMinutes\obj\Debug\net8.0\refint\CenturiesToMinutes.dll
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\softuni\Fundamentals\FundamentalModuleSolutions\CenturiesToMinutes\obj\Debug\net8.0\CenturiesToMinutes.pdb
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\softuni\Fundamentals\FundamentalModuleSolutions\CenturiesToMinutes\obj\Debug\net8.0\CenturiesToMinutes.genruntimeconfig.cache
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\softuni\Fundamentals\FundamentalModuleSolutions\CenturiesToMinutes\obj\Debug\net8.0\ref\CenturiesToMinutes.dll

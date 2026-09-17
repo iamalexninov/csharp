@@ -1,0 +1,14 @@
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\softuni\Fundamentals\FundamentalModuleSolutions\SpiceMustFlow\bin\Debug\net8.0\SpiceMustFlow.exe
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\softuni\Fundamentals\FundamentalModuleSolutions\SpiceMustFlow\bin\Debug\net8.0\SpiceMustFlow.deps.json
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\softuni\Fundamentals\FundamentalModuleSolutions\SpiceMustFlow\bin\Debug\net8.0\SpiceMustFlow.runtimeconfig.json
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\softuni\Fundamentals\FundamentalModuleSolutions\SpiceMustFlow\bin\Debug\net8.0\SpiceMustFlow.dll
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\softuni\Fundamentals\FundamentalModuleSolutions\SpiceMustFlow\bin\Debug\net8.0\SpiceMustFlow.pdb
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\softuni\Fundamentals\FundamentalModuleSolutions\SpiceMustFlow\obj\Debug\net8.0\SpiceMustFlow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\softuni\Fundamentals\FundamentalModuleSolutions\SpiceMustFlow\obj\Debug\net8.0\SpiceMustFlow.AssemblyInfoInputs.cache
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\softuni\Fundamentals\FundamentalModuleSolutions\SpiceMustFlow\obj\Debug\net8.0\SpiceMustFlow.AssemblyInfo.cs
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\softuni\Fundamentals\FundamentalModuleSolutions\SpiceMustFlow\obj\Debug\net8.0\SpiceMustFlow.csproj.CoreCompileInputs.cache
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\softuni\Fundamentals\FundamentalModuleSolutions\SpiceMustFlow\obj\Debug\net8.0\SpiceMustFlow.dll
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\softuni\Fundamentals\FundamentalModuleSolutions\SpiceMustFlow\obj\Debug\net8.0\refint\SpiceMustFlow.dll
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\softuni\Fundamentals\FundamentalModuleSolutions\SpiceMustFlow\obj\Debug\net8.0\SpiceMustFlow.pdb
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\softuni\Fundamentals\FundamentalModuleSolutions\SpiceMustFlow\obj\Debug\net8.0\SpiceMustFlow.genruntimeconfig.cache
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\softuni\Fundamentals\FundamentalModuleSolutions\SpiceMustFlow\obj\Debug\net8.0\ref\SpiceMustFlow.dll

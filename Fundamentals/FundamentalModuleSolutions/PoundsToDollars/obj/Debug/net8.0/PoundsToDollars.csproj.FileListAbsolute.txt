@@ -1,0 +1,14 @@
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\softuni\Fundamentals\FundamentalModuleSolutions\PoundsToDollars\bin\Debug\net8.0\PoundsToDollars.exe
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\softuni\Fundamentals\FundamentalModuleSolutions\PoundsToDollars\bin\Debug\net8.0\PoundsToDollars.deps.json
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\softuni\Fundamentals\FundamentalModuleSolutions\PoundsToDollars\bin\Debug\net8.0\PoundsToDollars.runtimeconfig.json
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\softuni\Fundamentals\FundamentalModuleSolutions\PoundsToDollars\bin\Debug\net8.0\PoundsToDollars.dll
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\softuni\Fundamentals\FundamentalModuleSolutions\PoundsToDollars\bin\Debug\net8.0\PoundsToDollars.pdb
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\softuni\Fundamentals\FundamentalModuleSolutions\PoundsToDollars\obj\Debug\net8.0\PoundsToDollars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\softuni\Fundamentals\FundamentalModuleSolutions\PoundsToDollars\obj\Debug\net8.0\PoundsToDollars.AssemblyInfoInputs.cache
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\softuni\Fundamentals\FundamentalModuleSolutions\PoundsToDollars\obj\Debug\net8.0\PoundsToDollars.AssemblyInfo.cs
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\softuni\Fundamentals\FundamentalModuleSolutions\PoundsToDollars\obj\Debug\net8.0\PoundsToDollars.csproj.CoreCompileInputs.cache
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\softuni\Fundamentals\FundamentalModuleSolutions\PoundsToDollars\obj\Debug\net8.0\PoundsToDollars.dll
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\softuni\Fundamentals\FundamentalModuleSolutions\PoundsToDollars\obj\Debug\net8.0\refint\PoundsToDollars.dll
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\softuni\Fundamentals\FundamentalModuleSolutions\PoundsToDollars\obj\Debug\net8.0\PoundsToDollars.pdb
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\softuni\Fundamentals\FundamentalModuleSolutions\PoundsToDollars\obj\Debug\net8.0\PoundsToDollars.genruntimeconfig.cache
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\softuni\Fundamentals\FundamentalModuleSolutions\PoundsToDollars\obj\Debug\net8.0\ref\PoundsToDollars.dll

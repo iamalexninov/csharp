@@ -1,0 +1,14 @@
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\softuni\Fundamentals\FundamentalModuleSolutions\PrintPartOfTheAsciiTable\bin\Debug\net8.0\PrintPartOfTheAsciiTable.exe
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\softuni\Fundamentals\FundamentalModuleSolutions\PrintPartOfTheAsciiTable\bin\Debug\net8.0\PrintPartOfTheAsciiTable.deps.json
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\softuni\Fundamentals\FundamentalModuleSolutions\PrintPartOfTheAsciiTable\bin\Debug\net8.0\PrintPartOfTheAsciiTable.runtimeconfig.json
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\softuni\Fundamentals\FundamentalModuleSolutions\PrintPartOfTheAsciiTable\bin\Debug\net8.0\PrintPartOfTheAsciiTable.dll
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\softuni\Fundamentals\FundamentalModuleSolutions\PrintPartOfTheAsciiTable\bin\Debug\net8.0\PrintPartOfTheAsciiTable.pdb
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\softuni\Fundamentals\FundamentalModuleSolutions\PrintPartOfTheAsciiTable\obj\Debug\net8.0\PrintPartOfTheAsciiTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\softuni\Fundamentals\FundamentalModuleSolutions\PrintPartOfTheAsciiTable\obj\Debug\net8.0\PrintPartOfTheAsciiTable.AssemblyInfoInputs.cache
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\softuni\Fundamentals\FundamentalModuleSolutions\PrintPartOfTheAsciiTable\obj\Debug\net8.0\PrintPartOfTheAsciiTable.AssemblyInfo.cs
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\softuni\Fundamentals\FundamentalModuleSolutions\PrintPartOfTheAsciiTable\obj\Debug\net8.0\PrintPartOfTheAsciiTable.csproj.CoreCompileInputs.cache
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\softuni\Fundamentals\FundamentalModuleSolutions\PrintPartOfTheAsciiTable\obj\Debug\net8.0\PrintPartOfTheAsciiTable.dll
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\softuni\Fundamentals\FundamentalModuleSolutions\PrintPartOfTheAsciiTable\obj\Debug\net8.0\refint\PrintPartOfTheAsciiTable.dll
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\softuni\Fundamentals\FundamentalModuleSolutions\PrintPartOfTheAsciiTable\obj\Debug\net8.0\PrintPartOfTheAsciiTable.pdb
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\softuni\Fundamentals\FundamentalModuleSolutions\PrintPartOfTheAsciiTable\obj\Debug\net8.0\PrintPartOfTheAsciiTable.genruntimeconfig.cache
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\softuni\Fundamentals\FundamentalModuleSolutions\PrintPartOfTheAsciiTable\obj\Debug\net8.0\ref\PrintPartOfTheAsciiTable.dll

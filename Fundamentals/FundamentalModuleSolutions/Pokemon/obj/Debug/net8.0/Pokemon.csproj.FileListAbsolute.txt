@@ -1,0 +1,14 @@
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\softuni\Fundamentals\FundamentalModuleSolutions\Pokemon\bin\Debug\net8.0\Pokemon.exe
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\softuni\Fundamentals\FundamentalModuleSolutions\Pokemon\bin\Debug\net8.0\Pokemon.deps.json
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\softuni\Fundamentals\FundamentalModuleSolutions\Pokemon\bin\Debug\net8.0\Pokemon.runtimeconfig.json
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\softuni\Fundamentals\FundamentalModuleSolutions\Pokemon\bin\Debug\net8.0\Pokemon.dll
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\softuni\Fundamentals\FundamentalModuleSolutions\Pokemon\bin\Debug\net8.0\Pokemon.pdb
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\softuni\Fundamentals\FundamentalModuleSolutions\Pokemon\obj\Debug\net8.0\Pokemon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\softuni\Fundamentals\FundamentalModuleSolutions\Pokemon\obj\Debug\net8.0\Pokemon.AssemblyInfoInputs.cache
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\softuni\Fundamentals\FundamentalModuleSolutions\Pokemon\obj\Debug\net8.0\Pokemon.AssemblyInfo.cs
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\softuni\Fundamentals\FundamentalModuleSolutions\Pokemon\obj\Debug\net8.0\Pokemon.csproj.CoreCompileInputs.cache
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\softuni\Fundamentals\FundamentalModuleSolutions\Pokemon\obj\Debug\net8.0\Pokemon.dll
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\softuni\Fundamentals\FundamentalModuleSolutions\Pokemon\obj\Debug\net8.0\refint\Pokemon.dll
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\softuni\Fundamentals\FundamentalModuleSolutions\Pokemon\obj\Debug\net8.0\Pokemon.pdb
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\softuni\Fundamentals\FundamentalModuleSolutions\Pokemon\obj\Debug\net8.0\Pokemon.genruntimeconfig.cache
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\softuni\Fundamentals\FundamentalModuleSolutions\Pokemon\obj\Debug\net8.0\ref\Pokemon.dll
