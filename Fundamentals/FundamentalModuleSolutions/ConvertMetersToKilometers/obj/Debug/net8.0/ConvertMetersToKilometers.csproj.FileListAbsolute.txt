@@ -12,3 +12,18 @@ C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\softuni\Fundamen
 C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\softuni\Fundamentals\FundamentalModuleSolutions\ConvertMetersToKilometers\obj\Debug\net8.0\ConvertMetersToKilometers.pdb
 C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\softuni\Fundamentals\FundamentalModuleSolutions\ConvertMetersToKilometers\obj\Debug\net8.0\ConvertMetersToKilometers.genruntimeconfig.cache
 C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\softuni\Fundamentals\FundamentalModuleSolutions\ConvertMetersToKilometers\obj\Debug\net8.0\ref\ConvertMetersToKilometers.dll
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\ConvertMetersToKilometers\bin\Debug\net8.0\ConvertMetersToKilometers.exe
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\ConvertMetersToKilometers\bin\Debug\net8.0\ConvertMetersToKilometers.deps.json
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\ConvertMetersToKilometers\bin\Debug\net8.0\ConvertMetersToKilometers.runtimeconfig.json
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\ConvertMetersToKilometers\bin\Debug\net8.0\ConvertMetersToKilometers.dll
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\ConvertMetersToKilometers\bin\Debug\net8.0\ConvertMetersToKilometers.pdb
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\ConvertMetersToKilometers\obj\Debug\net8.0\ConvertMetersToKilometers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\ConvertMetersToKilometers\obj\Debug\net8.0\ConvertMetersToKilometers.AssemblyInfoInputs.cache
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\ConvertMetersToKilometers\obj\Debug\net8.0\ConvertMetersToKilometers.AssemblyInfo.cs
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\ConvertMetersToKilometers\obj\Debug\net8.0\ConvertMetersToKilometers.csproj.CoreCompileInputs.cache
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\ConvertMetersToKilometers\obj\Debug\net8.0\ConvertMetersToKilometers.sourcelink.json
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\ConvertMetersToKilometers\obj\Debug\net8.0\ConvertMetersToKilometers.dll
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\ConvertMetersToKilometers\obj\Debug\net8.0\refint\ConvertMetersToKilometers.dll
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\ConvertMetersToKilometers\obj\Debug\net8.0\ConvertMetersToKilometers.pdb
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\ConvertMetersToKilometers\obj\Debug\net8.0\ConvertMetersToKilometers.genruntimeconfig.cache
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\ConvertMetersToKilometers\obj\Debug\net8.0\ref\ConvertMetersToKilometers.dll

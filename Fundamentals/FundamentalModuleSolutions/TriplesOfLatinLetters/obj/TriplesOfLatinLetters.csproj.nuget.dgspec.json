@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ninov's PC\\OneDrive\\Desktop\\LifeVault\\C-Sharp Learning\\softuni\\Fundamentals\\FundamentalModuleSolutions\\TriplesOfLatinLetters\\TriplesOfLatinLetters.csproj": {}
+    "C:\\Users\\a.ninov\\Desktop\\MonetaHUB\\Programming\\csharp\\csharp\\Fundamentals\\FundamentalModuleSolutions\\TriplesOfLatinLetters\\TriplesOfLatinLetters.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ninov's PC\\OneDrive\\Desktop\\LifeVault\\C-Sharp Learning\\softuni\\Fundamentals\\FundamentalModuleSolutions\\TriplesOfLatinLetters\\TriplesOfLatinLetters.csproj": {
+    "C:\\Users\\a.ninov\\Desktop\\MonetaHUB\\Programming\\csharp\\csharp\\Fundamentals\\FundamentalModuleSolutions\\TriplesOfLatinLetters\\TriplesOfLatinLetters.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ninov's PC\\OneDrive\\Desktop\\LifeVault\\C-Sharp Learning\\softuni\\Fundamentals\\FundamentalModuleSolutions\\TriplesOfLatinLetters\\TriplesOfLatinLetters.csproj",
+        "projectUniqueName": "C:\\Users\\a.ninov\\Desktop\\MonetaHUB\\Programming\\csharp\\csharp\\Fundamentals\\FundamentalModuleSolutions\\TriplesOfLatinLetters\\TriplesOfLatinLetters.csproj",
         "projectName": "TriplesOfLatinLetters",
-        "projectPath": "C:\\Users\\Ninov's PC\\OneDrive\\Desktop\\LifeVault\\C-Sharp Learning\\softuni\\Fundamentals\\FundamentalModuleSolutions\\TriplesOfLatinLetters\\TriplesOfLatinLetters.csproj",
-        "packagesPath": "C:\\Users\\Ninov's PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ninov's PC\\OneDrive\\Desktop\\LifeVault\\C-Sharp Learning\\softuni\\Fundamentals\\FundamentalModuleSolutions\\TriplesOfLatinLetters\\obj\\",
+        "projectPath": "C:\\Users\\a.ninov\\Desktop\\MonetaHUB\\Programming\\csharp\\csharp\\Fundamentals\\FundamentalModuleSolutions\\TriplesOfLatinLetters\\TriplesOfLatinLetters.csproj",
+        "packagesPath": "C:\\Users\\a.ninov\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\a.ninov\\Desktop\\MonetaHUB\\Programming\\csharp\\csharp\\Fundamentals\\FundamentalModuleSolutions\\TriplesOfLatinLetters\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Ninov's PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\a.ninov\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

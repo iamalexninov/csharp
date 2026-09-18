@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConvertMetersToKilometers")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c884dce84d95ced7c3ea6bf3afa05b0c4cd044ea")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConvertMetersToKilometers")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConvertMetersToKilometers")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

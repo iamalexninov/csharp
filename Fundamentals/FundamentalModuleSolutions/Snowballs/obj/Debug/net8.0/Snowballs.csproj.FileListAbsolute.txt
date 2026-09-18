@@ -1,0 +1,15 @@
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\Snowballs\bin\Debug\net8.0\Snowballs.exe
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\Snowballs\bin\Debug\net8.0\Snowballs.deps.json
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\Snowballs\bin\Debug\net8.0\Snowballs.runtimeconfig.json
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\Snowballs\bin\Debug\net8.0\Snowballs.dll
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\Snowballs\bin\Debug\net8.0\Snowballs.pdb
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\Snowballs\obj\Debug\net8.0\Snowballs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\Snowballs\obj\Debug\net8.0\Snowballs.AssemblyInfoInputs.cache
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\Snowballs\obj\Debug\net8.0\Snowballs.AssemblyInfo.cs
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\Snowballs\obj\Debug\net8.0\Snowballs.csproj.CoreCompileInputs.cache
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\Snowballs\obj\Debug\net8.0\Snowballs.sourcelink.json
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\Snowballs\obj\Debug\net8.0\Snowballs.dll
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\Snowballs\obj\Debug\net8.0\refint\Snowballs.dll
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\Snowballs\obj\Debug\net8.0\Snowballs.pdb
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\Snowballs\obj\Debug\net8.0\Snowballs.genruntimeconfig.cache
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\Snowballs\obj\Debug\net8.0\ref\Snowballs.dll
