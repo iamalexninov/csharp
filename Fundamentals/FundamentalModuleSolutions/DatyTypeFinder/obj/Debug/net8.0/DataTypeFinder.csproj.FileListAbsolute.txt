@@ -1,0 +1,15 @@
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\DatyTypeFinder\bin\Debug\net8.0\DataTypeFinder.exe
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\DatyTypeFinder\bin\Debug\net8.0\DataTypeFinder.deps.json
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\DatyTypeFinder\bin\Debug\net8.0\DataTypeFinder.runtimeconfig.json
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\DatyTypeFinder\bin\Debug\net8.0\DataTypeFinder.dll
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\DatyTypeFinder\bin\Debug\net8.0\DataTypeFinder.pdb
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\DatyTypeFinder\obj\Debug\net8.0\DataTypeFinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\DatyTypeFinder\obj\Debug\net8.0\DataTypeFinder.AssemblyInfoInputs.cache
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\DatyTypeFinder\obj\Debug\net8.0\DataTypeFinder.AssemblyInfo.cs
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\DatyTypeFinder\obj\Debug\net8.0\DataTypeFinder.csproj.CoreCompileInputs.cache
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\DatyTypeFinder\obj\Debug\net8.0\DataTypeFinder.sourcelink.json
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\DatyTypeFinder\obj\Debug\net8.0\DataTypeFinder.dll
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\DatyTypeFinder\obj\Debug\net8.0\refint\DataTypeFinder.dll
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\DatyTypeFinder\obj\Debug\net8.0\DataTypeFinder.pdb
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\DatyTypeFinder\obj\Debug\net8.0\DataTypeFinder.genruntimeconfig.cache
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\DatyTypeFinder\obj\Debug\net8.0\ref\DataTypeFinder.dll
