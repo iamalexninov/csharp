@@ -1,0 +1,15 @@
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\FromLeftToRight\bin\Debug\net8.0\FromLeftToRight.exe
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\FromLeftToRight\bin\Debug\net8.0\FromLeftToRight.deps.json
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\FromLeftToRight\bin\Debug\net8.0\FromLeftToRight.runtimeconfig.json
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\FromLeftToRight\bin\Debug\net8.0\FromLeftToRight.dll
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\FromLeftToRight\bin\Debug\net8.0\FromLeftToRight.pdb
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\FromLeftToRight\obj\Debug\net8.0\FromLeftToRight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\FromLeftToRight\obj\Debug\net8.0\FromLeftToRight.AssemblyInfoInputs.cache
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\FromLeftToRight\obj\Debug\net8.0\FromLeftToRight.AssemblyInfo.cs
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\FromLeftToRight\obj\Debug\net8.0\FromLeftToRight.csproj.CoreCompileInputs.cache
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\FromLeftToRight\obj\Debug\net8.0\FromLeftToRight.sourcelink.json
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\FromLeftToRight\obj\Debug\net8.0\FromLeftToRight.dll
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\FromLeftToRight\obj\Debug\net8.0\refint\FromLeftToRight.dll
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\FromLeftToRight\obj\Debug\net8.0\FromLeftToRight.pdb
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\FromLeftToRight\obj\Debug\net8.0\FromLeftToRight.genruntimeconfig.cache
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\FromLeftToRight\obj\Debug\net8.0\ref\FromLeftToRight.dll
