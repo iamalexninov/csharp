@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RoundingNumbers")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e9d5b240982d1e537b9e90fc08ff14758e9633e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+919246b4722fe252f38c06981ef186056204c17e")]
 [assembly: System.Reflection.AssemblyProductAttribute("RoundingNumbers")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RoundingNumbers")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

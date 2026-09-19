@@ -1,0 +1,15 @@
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\csharp\Fundamentals\FundamentalModuleSolutions\EvenAndOddSubtraction\bin\Debug\net8.0\EvenAndOddSubtraction.exe
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\csharp\Fundamentals\FundamentalModuleSolutions\EvenAndOddSubtraction\bin\Debug\net8.0\EvenAndOddSubtraction.deps.json
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\csharp\Fundamentals\FundamentalModuleSolutions\EvenAndOddSubtraction\bin\Debug\net8.0\EvenAndOddSubtraction.runtimeconfig.json
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\csharp\Fundamentals\FundamentalModuleSolutions\EvenAndOddSubtraction\bin\Debug\net8.0\EvenAndOddSubtraction.dll
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\csharp\Fundamentals\FundamentalModuleSolutions\EvenAndOddSubtraction\bin\Debug\net8.0\EvenAndOddSubtraction.pdb
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\csharp\Fundamentals\FundamentalModuleSolutions\EvenAndOddSubtraction\obj\Debug\net8.0\EvenAndOddSubtraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\csharp\Fundamentals\FundamentalModuleSolutions\EvenAndOddSubtraction\obj\Debug\net8.0\EvenAndOddSubtraction.AssemblyInfoInputs.cache
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\csharp\Fundamentals\FundamentalModuleSolutions\EvenAndOddSubtraction\obj\Debug\net8.0\EvenAndOddSubtraction.AssemblyInfo.cs
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\csharp\Fundamentals\FundamentalModuleSolutions\EvenAndOddSubtraction\obj\Debug\net8.0\EvenAndOddSubtraction.csproj.CoreCompileInputs.cache
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\csharp\Fundamentals\FundamentalModuleSolutions\EvenAndOddSubtraction\obj\Debug\net8.0\EvenAndOddSubtraction.sourcelink.json
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\csharp\Fundamentals\FundamentalModuleSolutions\EvenAndOddSubtraction\obj\Debug\net8.0\EvenAndOddSubtraction.dll
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\csharp\Fundamentals\FundamentalModuleSolutions\EvenAndOddSubtraction\obj\Debug\net8.0\refint\EvenAndOddSubtraction.dll
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\csharp\Fundamentals\FundamentalModuleSolutions\EvenAndOddSubtraction\obj\Debug\net8.0\EvenAndOddSubtraction.pdb
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\csharp\Fundamentals\FundamentalModuleSolutions\EvenAndOddSubtraction\obj\Debug\net8.0\EvenAndOddSubtraction.genruntimeconfig.cache
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\csharp\Fundamentals\FundamentalModuleSolutions\EvenAndOddSubtraction\obj\Debug\net8.0\ref\EvenAndOddSubtraction.dll

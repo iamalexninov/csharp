@@ -1,0 +1,15 @@
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\csharp\Fundamentals\FundamentalModuleSolutions\EqualArrays\bin\Debug\net8.0\EqualArrays.exe
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\csharp\Fundamentals\FundamentalModuleSolutions\EqualArrays\bin\Debug\net8.0\EqualArrays.deps.json
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\csharp\Fundamentals\FundamentalModuleSolutions\EqualArrays\bin\Debug\net8.0\EqualArrays.runtimeconfig.json
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\csharp\Fundamentals\FundamentalModuleSolutions\EqualArrays\bin\Debug\net8.0\EqualArrays.dll
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\csharp\Fundamentals\FundamentalModuleSolutions\EqualArrays\bin\Debug\net8.0\EqualArrays.pdb
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\csharp\Fundamentals\FundamentalModuleSolutions\EqualArrays\obj\Debug\net8.0\EqualArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\csharp\Fundamentals\FundamentalModuleSolutions\EqualArrays\obj\Debug\net8.0\EqualArrays.AssemblyInfoInputs.cache
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\csharp\Fundamentals\FundamentalModuleSolutions\EqualArrays\obj\Debug\net8.0\EqualArrays.AssemblyInfo.cs
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\csharp\Fundamentals\FundamentalModuleSolutions\EqualArrays\obj\Debug\net8.0\EqualArrays.csproj.CoreCompileInputs.cache
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\csharp\Fundamentals\FundamentalModuleSolutions\EqualArrays\obj\Debug\net8.0\EqualArrays.sourcelink.json
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\csharp\Fundamentals\FundamentalModuleSolutions\EqualArrays\obj\Debug\net8.0\EqualArrays.dll
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\csharp\Fundamentals\FundamentalModuleSolutions\EqualArrays\obj\Debug\net8.0\refint\EqualArrays.dll
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\csharp\Fundamentals\FundamentalModuleSolutions\EqualArrays\obj\Debug\net8.0\EqualArrays.pdb
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\csharp\Fundamentals\FundamentalModuleSolutions\EqualArrays\obj\Debug\net8.0\EqualArrays.genruntimeconfig.cache
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\csharp\Fundamentals\FundamentalModuleSolutions\EqualArrays\obj\Debug\net8.0\ref\EqualArrays.dll
