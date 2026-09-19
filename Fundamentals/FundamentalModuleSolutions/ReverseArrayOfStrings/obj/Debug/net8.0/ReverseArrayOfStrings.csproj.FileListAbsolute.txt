@@ -1,0 +1,15 @@
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\csharp\Fundamentals\FundamentalModuleSolutions\ReverseArrayOfStrings\bin\Debug\net8.0\ReverseArrayOfStrings.exe
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\csharp\Fundamentals\FundamentalModuleSolutions\ReverseArrayOfStrings\bin\Debug\net8.0\ReverseArrayOfStrings.deps.json
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\csharp\Fundamentals\FundamentalModuleSolutions\ReverseArrayOfStrings\bin\Debug\net8.0\ReverseArrayOfStrings.runtimeconfig.json
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\csharp\Fundamentals\FundamentalModuleSolutions\ReverseArrayOfStrings\bin\Debug\net8.0\ReverseArrayOfStrings.dll
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\csharp\Fundamentals\FundamentalModuleSolutions\ReverseArrayOfStrings\bin\Debug\net8.0\ReverseArrayOfStrings.pdb
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\csharp\Fundamentals\FundamentalModuleSolutions\ReverseArrayOfStrings\obj\Debug\net8.0\ReverseArrayOfStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\csharp\Fundamentals\FundamentalModuleSolutions\ReverseArrayOfStrings\obj\Debug\net8.0\ReverseArrayOfStrings.AssemblyInfoInputs.cache
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\csharp\Fundamentals\FundamentalModuleSolutions\ReverseArrayOfStrings\obj\Debug\net8.0\ReverseArrayOfStrings.AssemblyInfo.cs
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\csharp\Fundamentals\FundamentalModuleSolutions\ReverseArrayOfStrings\obj\Debug\net8.0\ReverseArrayOfStrings.csproj.CoreCompileInputs.cache
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\csharp\Fundamentals\FundamentalModuleSolutions\ReverseArrayOfStrings\obj\Debug\net8.0\ReverseArrayOfStrings.sourcelink.json
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\csharp\Fundamentals\FundamentalModuleSolutions\ReverseArrayOfStrings\obj\Debug\net8.0\ReverseArrayOfStrings.dll
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\csharp\Fundamentals\FundamentalModuleSolutions\ReverseArrayOfStrings\obj\Debug\net8.0\refint\ReverseArrayOfStrings.dll
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\csharp\Fundamentals\FundamentalModuleSolutions\ReverseArrayOfStrings\obj\Debug\net8.0\ReverseArrayOfStrings.pdb
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\csharp\Fundamentals\FundamentalModuleSolutions\ReverseArrayOfStrings\obj\Debug\net8.0\ReverseArrayOfStrings.genruntimeconfig.cache
+C:\Users\Ninov's PC\OneDrive\Desktop\LifeVault\C-Sharp Learning\csharp\Fundamentals\FundamentalModuleSolutions\ReverseArrayOfStrings\obj\Debug\net8.0\ref\ReverseArrayOfStrings.dll

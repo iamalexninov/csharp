@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CenturiesToMinutes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d722d9a6b08d2a86346beafd2212b65976ccecbf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e9d5b240982d1e537b9e90fc08ff14758e9633e")]
 [assembly: System.Reflection.AssemblyProductAttribute("CenturiesToMinutes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CenturiesToMinutes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
