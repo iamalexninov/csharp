@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TriplesOfLatinLetters")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c58d00f691d77e6abfd5415812ae01cfa5eae6ac")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d722d9a6b08d2a86346beafd2212b65976ccecbf")]
 [assembly: System.Reflection.AssemblyProductAttribute("TriplesOfLatinLetters")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TriplesOfLatinLetters")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
