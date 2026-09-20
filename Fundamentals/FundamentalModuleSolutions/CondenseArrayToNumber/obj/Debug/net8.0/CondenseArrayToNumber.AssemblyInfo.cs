@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CondenseArrayToNumber")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+18585815e5faefc49a26e5bf3ee33800c8c3adb6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd08f35feecb9cc78f7433b00d083f829c5a2fd4")]
 [assembly: System.Reflection.AssemblyProductAttribute("CondenseArrayToNumber")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CondenseArrayToNumber")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,15 @@
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\Zig-ZagArrays\bin\Debug\net8.0\Zig-ZagArrays.exe
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\Zig-ZagArrays\bin\Debug\net8.0\Zig-ZagArrays.deps.json
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\Zig-ZagArrays\bin\Debug\net8.0\Zig-ZagArrays.runtimeconfig.json
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\Zig-ZagArrays\bin\Debug\net8.0\Zig-ZagArrays.dll
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\Zig-ZagArrays\bin\Debug\net8.0\Zig-ZagArrays.pdb
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\Zig-ZagArrays\obj\Debug\net8.0\Zig-ZagArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\Zig-ZagArrays\obj\Debug\net8.0\Zig-ZagArrays.AssemblyInfoInputs.cache
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\Zig-ZagArrays\obj\Debug\net8.0\Zig-ZagArrays.AssemblyInfo.cs
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\Zig-ZagArrays\obj\Debug\net8.0\Zig-ZagArrays.csproj.CoreCompileInputs.cache
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\Zig-ZagArrays\obj\Debug\net8.0\Zig-ZagArrays.sourcelink.json
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\Zig-ZagArrays\obj\Debug\net8.0\Zig-ZagArrays.dll
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\Zig-ZagArrays\obj\Debug\net8.0\refint\Zig-ZagArrays.dll
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\Zig-ZagArrays\obj\Debug\net8.0\Zig-ZagArrays.pdb
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\Zig-ZagArrays\obj\Debug\net8.0\Zig-ZagArrays.genruntimeconfig.cache
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\Zig-ZagArrays\obj\Debug\net8.0\ref\Zig-ZagArrays.dll
