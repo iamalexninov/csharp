@@ -1,0 +1,15 @@
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\MaxSequenceOfEqualElements\bin\Debug\net8.0\MaxSequenceOfEqualElements.exe
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\MaxSequenceOfEqualElements\bin\Debug\net8.0\MaxSequenceOfEqualElements.deps.json
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\MaxSequenceOfEqualElements\bin\Debug\net8.0\MaxSequenceOfEqualElements.runtimeconfig.json
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\MaxSequenceOfEqualElements\bin\Debug\net8.0\MaxSequenceOfEqualElements.dll
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\MaxSequenceOfEqualElements\bin\Debug\net8.0\MaxSequenceOfEqualElements.pdb
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\MaxSequenceOfEqualElements\obj\Debug\net8.0\MaxSequenceOfEqualElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\MaxSequenceOfEqualElements\obj\Debug\net8.0\MaxSequenceOfEqualElements.AssemblyInfoInputs.cache
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\MaxSequenceOfEqualElements\obj\Debug\net8.0\MaxSequenceOfEqualElements.AssemblyInfo.cs
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\MaxSequenceOfEqualElements\obj\Debug\net8.0\MaxSequenceOfEqualElements.csproj.CoreCompileInputs.cache
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\MaxSequenceOfEqualElements\obj\Debug\net8.0\MaxSequenceOfEqualElements.sourcelink.json
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\MaxSequenceOfEqualElements\obj\Debug\net8.0\MaxSequenceOfEqualElements.dll
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\MaxSequenceOfEqualElements\obj\Debug\net8.0\refint\MaxSequenceOfEqualElements.dll
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\MaxSequenceOfEqualElements\obj\Debug\net8.0\MaxSequenceOfEqualElements.pdb
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\MaxSequenceOfEqualElements\obj\Debug\net8.0\MaxSequenceOfEqualElements.genruntimeconfig.cache
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\MaxSequenceOfEqualElements\obj\Debug\net8.0\ref\MaxSequenceOfEqualElements.dll
