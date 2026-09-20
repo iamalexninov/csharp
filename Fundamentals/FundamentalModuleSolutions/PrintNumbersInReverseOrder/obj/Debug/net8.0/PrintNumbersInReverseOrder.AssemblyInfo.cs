@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PrintNumbersInReverseOrder")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d9c6c61de1e866cf44bb31c70febcfff2bcee0f7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+590eef06851fcb9e0b250902c34053d7d8b2d745")]
 [assembly: System.Reflection.AssemblyProductAttribute("PrintNumbersInReverseOrder")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PrintNumbersInReverseOrder")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
