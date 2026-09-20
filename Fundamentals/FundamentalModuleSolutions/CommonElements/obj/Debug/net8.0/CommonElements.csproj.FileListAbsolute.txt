@@ -1,0 +1,15 @@
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\CommonElements\bin\Debug\net8.0\CommonElements.exe
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\CommonElements\bin\Debug\net8.0\CommonElements.deps.json
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\CommonElements\bin\Debug\net8.0\CommonElements.runtimeconfig.json
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\CommonElements\bin\Debug\net8.0\CommonElements.dll
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\CommonElements\bin\Debug\net8.0\CommonElements.pdb
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\CommonElements\obj\Debug\net8.0\CommonElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\CommonElements\obj\Debug\net8.0\CommonElements.AssemblyInfoInputs.cache
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\CommonElements\obj\Debug\net8.0\CommonElements.AssemblyInfo.cs
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\CommonElements\obj\Debug\net8.0\CommonElements.csproj.CoreCompileInputs.cache
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\CommonElements\obj\Debug\net8.0\CommonElements.sourcelink.json
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\CommonElements\obj\Debug\net8.0\CommonElements.dll
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\CommonElements\obj\Debug\net8.0\refint\CommonElements.dll
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\CommonElements\obj\Debug\net8.0\CommonElements.pdb
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\CommonElements\obj\Debug\net8.0\CommonElements.genruntimeconfig.cache
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\CommonElements\obj\Debug\net8.0\ref\CommonElements.dll
