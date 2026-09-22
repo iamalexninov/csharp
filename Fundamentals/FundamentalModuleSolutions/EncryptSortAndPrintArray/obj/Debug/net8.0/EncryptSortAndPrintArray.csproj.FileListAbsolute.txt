@@ -1,0 +1,15 @@
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\EncryptSortAndPrintArray\bin\Debug\net8.0\EncryptSortAndPrintArray.exe
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\EncryptSortAndPrintArray\bin\Debug\net8.0\EncryptSortAndPrintArray.deps.json
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\EncryptSortAndPrintArray\bin\Debug\net8.0\EncryptSortAndPrintArray.runtimeconfig.json
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\EncryptSortAndPrintArray\bin\Debug\net8.0\EncryptSortAndPrintArray.dll
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\EncryptSortAndPrintArray\bin\Debug\net8.0\EncryptSortAndPrintArray.pdb
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\EncryptSortAndPrintArray\obj\Debug\net8.0\EncryptSortAndPrintArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\EncryptSortAndPrintArray\obj\Debug\net8.0\EncryptSortAndPrintArray.AssemblyInfoInputs.cache
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\EncryptSortAndPrintArray\obj\Debug\net8.0\EncryptSortAndPrintArray.AssemblyInfo.cs
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\EncryptSortAndPrintArray\obj\Debug\net8.0\EncryptSortAndPrintArray.csproj.CoreCompileInputs.cache
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\EncryptSortAndPrintArray\obj\Debug\net8.0\EncryptSortAndPrintArray.sourcelink.json
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\EncryptSortAndPrintArray\obj\Debug\net8.0\EncryptSortAndPrintArray.dll
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\EncryptSortAndPrintArray\obj\Debug\net8.0\refint\EncryptSortAndPrintArray.dll
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\EncryptSortAndPrintArray\obj\Debug\net8.0\EncryptSortAndPrintArray.pdb
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\EncryptSortAndPrintArray\obj\Debug\net8.0\EncryptSortAndPrintArray.genruntimeconfig.cache
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\EncryptSortAndPrintArray\obj\Debug\net8.0\ref\EncryptSortAndPrintArray.dll
