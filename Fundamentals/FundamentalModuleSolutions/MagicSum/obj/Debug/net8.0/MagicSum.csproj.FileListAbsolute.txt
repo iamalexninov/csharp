@@ -1,0 +1,15 @@
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\MagicSum\bin\Debug\net8.0\MagicSum.exe
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\MagicSum\bin\Debug\net8.0\MagicSum.deps.json
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\MagicSum\bin\Debug\net8.0\MagicSum.runtimeconfig.json
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\MagicSum\bin\Debug\net8.0\MagicSum.dll
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\MagicSum\bin\Debug\net8.0\MagicSum.pdb
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\MagicSum\obj\Debug\net8.0\MagicSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\MagicSum\obj\Debug\net8.0\MagicSum.AssemblyInfoInputs.cache
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\MagicSum\obj\Debug\net8.0\MagicSum.AssemblyInfo.cs
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\MagicSum\obj\Debug\net8.0\MagicSum.csproj.CoreCompileInputs.cache
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\MagicSum\obj\Debug\net8.0\MagicSum.sourcelink.json
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\MagicSum\obj\Debug\net8.0\MagicSum.dll
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\MagicSum\obj\Debug\net8.0\refint\MagicSum.dll
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\MagicSum\obj\Debug\net8.0\MagicSum.pdb
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\MagicSum\obj\Debug\net8.0\MagicSum.genruntimeconfig.cache
+C:\Users\a.ninov\Desktop\MonetaHUB\Programming\csharp\csharp\Fundamentals\FundamentalModuleSolutions\MagicSum\obj\Debug\net8.0\ref\MagicSum.dll

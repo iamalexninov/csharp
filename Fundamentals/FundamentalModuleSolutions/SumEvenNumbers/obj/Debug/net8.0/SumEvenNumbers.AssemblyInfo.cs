@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SumEvenNumbers")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0b507302b95fd661007f7f413a31b04d9f491f51")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+568cfb848dbe1f7547b49a115d7bfc53f055f7da")]
 [assembly: System.Reflection.AssemblyProductAttribute("SumEvenNumbers")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SumEvenNumbers")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
